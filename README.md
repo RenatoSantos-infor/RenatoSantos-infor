@@ -1,4 +1,5 @@
-SEJA BEM VINDO! 😄
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4b0082&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+SEJA+BEM+VINDO!+:%29)](https://git.io/typing-svg)
 
 Eu sou o Renato Santos 👋
 
@@ -16,8 +17,7 @@ Eu sou o Renato Santos 👋
   <img align="center" alt="Infor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Infor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Infor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Infor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"
+  <img align="center" alt="Infor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">  
 </div>
   
   ##
